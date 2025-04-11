@@ -5,7 +5,7 @@ AQMS (Air Quality Monitoring System) is a compact, low-cost, and portable device
 The entire project is enclosed in a custom 3D-printed or acrylic case and powered by rechargeable 18650 LiPo batteries. It features an intuitive on-device UI for standalone use, along with visual and audible alerts through LEDs and a buzzer.
 
 ---
-
+## YOUTUBE VIDEO LINK @ LOIGIENCE YOUTUBE CHANNEL : https://youtu.be/rIXYV3iFZdM
 ## 🔧 Features
 
 - Real-time monitoring of:
